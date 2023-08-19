@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/SQL/C with SQL/cmake-build-debug/CMakeFiles/C_with_SQL.dir
+C:/Users/User/Desktop/SQL/C with SQL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/SQL/C with SQL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
